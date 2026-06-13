@@ -1,5 +1,9 @@
 # ECU-UoP Consumer Behaviour Study
 
+## Project Meeting
+
+![ECU-UoP Virtual Project Meeting](ECU-UoP%20Virtual%20Project%20Meeting.png)
+
 ## Overview
 
 This project was completed through an international collaboration between students from Edith Cowan University (Australia) and the University of Portsmouth (United Kingdom).
